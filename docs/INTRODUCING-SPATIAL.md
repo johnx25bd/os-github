@@ -1,7 +1,6 @@
 # 1: Introducing Spatial
 
-Maps are incredibly useful things. We use them to understand reality, to aid navigation, to make sense of where we are - without maps, we are, quite often, lost. Maps are tools we have come to rely on to survive and thrive. 
-
+Maps are super useful things. We use them to understand reality, to aid navigation, to make sense of where we are - without maps, we are, quite often, lost. Maps are tools we have come to rely on to survive and thrive. 
 
 What is a map? [Wikipedia puts it concisely:](https://en.wikipedia.org/wiki/Map) "A map is a _symbolic depiction_ emphasizing _relationships_ between _elements_ of some _space_." This definition captures the breadth of things we describe as "maps": from the traditional - paper [OS Landranger maps](https://www.ordnancesurvey.co.uk/shop/maps.html) that hikers use to explore areas like the Scottish Highlands - to the more conceptual - a mind map of ideas around a topic, or a site map of pages within a website, or a map representing a network of firms competing in a market. 
 
